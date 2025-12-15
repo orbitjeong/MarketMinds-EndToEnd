@@ -35,3 +35,4 @@ The project demonstrates **data cleaning and EDA in Python**, **analytical query
 ---
 
 ### 🔹 Dashboard Preview
+https://github.com/orbitjeong/MarketMinds-EndToEnd/blob/main/images/Campaign%20Performance.png
