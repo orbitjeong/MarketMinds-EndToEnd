@@ -36,7 +36,7 @@ The project demonstrates **data cleaning and EDA in Python**, **analytical query
 
 ### 🔹 Dashboard Preview
 ## Campaign Performance
-<img width="662" height="368" alt="image" src="https://github.com/user-attachments/assets/22a3c05a-4982-48a4-a1fc-42abbd7dc12a" />
+<img width="1560" height="872" alt="image" src="https://github.com/user-attachments/assets/6fcdd178-eea0-46b2-9b19-c8849ff4e09a" />
 
 ## Buyer Composition
 <img width="3025" height="1698" alt="Buyer Composition" src="https://github.com/user-attachments/assets/9f793aa4-7aae-41c2-a26d-ecdeedf73275" />
