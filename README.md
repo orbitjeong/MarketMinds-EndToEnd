@@ -22,30 +22,31 @@ The project follows a structured pipeline:
 ## 📂 Project Structure
 MarketMinds-EndToEnd/
 │
-├─ README.md  
+├─ README.md ← Main project documentation
 │
 ├─ data/
-│   ├─ raw/
-│   │   └─ marketing_campaigns.csv
-│   └─ processed/
-│       └─ marketing_clean.csv
+│ ├─ raw/ ← Original raw dataset
+│ │ └─ marketing_campaigns.csv
+│ └─ processed/ ← Cleaned and feature-engineered data
+│ └─ marketing_clean.csv
 │
 ├─ python/
-│   ├─ 01_data_cleaning.ipynb
-│   ├─ 02_eda_analysis.ipynb
-│   └─ requirements.txt
+│ ├─ 01_data_cleaning.ipynb ← Data cleaning & feature engineering
+│ ├─ 02_eda_analysis.ipynb ← Exploratory data analysis (EDA)
+│ └─ requirements.txt ← Python dependencies
 │
 ├─ sql/
-│   ├─ schema.sql
-│   └─ analysis_queries.sql
+│ ├─ schema.sql ← Database & table schema definition
+│ └─ analysis_queries.sql ← Analytical SQL queries & insights
 │
 ├─ powerbi/
-│   └─ MarketMinds.pbix   (or screenshots)
+│ └─ MarketMinds_MarketingAnalytics.pbix
+│ ← Interactive Power BI dashboard
 │
 └─ images/
-    ├─ revenue_by_campaign.png
-    ├─ customer_segments.png
-    └─ dashboard_overview.png
+├─ Campaign Performance.png ← Campaign-level performance analysis
+├─ Buyer Composition.png ← Customer segment composition
+└─ Purchase Drivers.png ← Key purchase drivers visualization
 
 ---
 
