@@ -20,6 +20,7 @@ The project follows a structured pipeline:
 ---
 
 ## 📂 Project Structure
+```md
 MarketMinds-EndToEnd/
 │
 ├─ README.md ← Main project documentation
@@ -47,7 +48,7 @@ MarketMinds-EndToEnd/
 ├─ Campaign Performance.png ← Campaign-level performance analysis
 ├─ Buyer Composition.png ← Customer segment composition
 └─ Purchase Drivers.png ← Key purchase drivers visualization
-
+```
 ---
 
 ## 🧹 Data Cleaning & Feature Engineering (Python)
