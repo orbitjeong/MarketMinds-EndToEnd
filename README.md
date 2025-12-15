@@ -35,4 +35,11 @@ The project demonstrates **data cleaning and EDA in Python**, **analytical query
 ---
 
 ### 🔹 Dashboard Preview
-https://github.com/orbitjeong/MarketMinds-EndToEnd/blob/main/images/Campaign%20Performance.png
+## Campaign Performance
+<img width="3026" height="1695" alt="Campaign Performance" src="https://github.com/user-attachments/assets/ab3662ba-6093-4f03-9cdb-5c79eb8b8560" />
+
+## Buyer Composition
+<img width="3025" height="1698" alt="Buyer Composition" src="https://github.com/user-attachments/assets/9f793aa4-7aae-41c2-a26d-ecdeedf73275" />
+
+## Purchase Drivers
+<img width="3026" height="1695" alt="Purchase Drivers" src="https://github.com/user-attachments/assets/f81da2f9-915e-4807-95a8-8eac4b885991" />
