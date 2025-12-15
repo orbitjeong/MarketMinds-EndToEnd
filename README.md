@@ -113,6 +113,17 @@ Notable insight:
   - High-value customer segmentation
 - SQL and Python insights directly informed dashboard design and storytelling.
 
+
+### 🔹 Dashboard Preview
+## Campaign Performance
+<img width="1560" height="872" alt="image" src="https://github.com/user-attachments/assets/6fcdd178-eea0-46b2-9b19-c8849ff4e09a" />
+
+## Buyer Composition
+<img width="3025" height="1698" alt="Buyer Composition" src="https://github.com/user-attachments/assets/9f793aa4-7aae-41c2-a26d-ecdeedf73275" />
+
+## Purchase Drivers
+<img width="3026" height="1695" alt="Purchase Drivers" src="https://github.com/user-attachments/assets/f81da2f9-915e-4807-95a8-8eac4b885991" />
+
 ---
 
 ## ✅ Key Takeaways
@@ -126,14 +137,3 @@ Notable insight:
 **Jennie Jeong**  
 Aspiring Data Analyst | Python • SQL • Power BI  
 GitHub: https://github.com/orbitjeong
-
-
-### 🔹 Dashboard Preview
-## Campaign Performance
-<img width="1560" height="872" alt="image" src="https://github.com/user-attachments/assets/6fcdd178-eea0-46b2-9b19-c8849ff4e09a" />
-
-## Buyer Composition
-<img width="3025" height="1698" alt="Buyer Composition" src="https://github.com/user-attachments/assets/9f793aa4-7aae-41c2-a26d-ecdeedf73275" />
-
-## Purchase Drivers
-<img width="3026" height="1695" alt="Purchase Drivers" src="https://github.com/user-attachments/assets/f81da2f9-915e-4807-95a8-8eac4b885991" />
