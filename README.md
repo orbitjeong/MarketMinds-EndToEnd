@@ -16,7 +16,7 @@ The project demonstrates **data cleaning and EDA in Python**, **analytical query
 - **BI**: Power BI (DAX, Key Influencers)
 
 ---
-## Data Sources
+### 🔹 Data Sources
 
 - **marketmindz_research_data.csv**
   - Raw marketing campaign and customer behavior dataset used for analysis.
